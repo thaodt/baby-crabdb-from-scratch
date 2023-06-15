@@ -3,4 +3,5 @@
 members = [
   "chap01_files",
   "chap04_05_bptree",
+  "bptree",
 ]
